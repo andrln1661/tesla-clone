@@ -34,7 +34,7 @@ function Home() {
         rightBtnText="Existing Inventory"
       />
       <Section
-        title="Losesst Cost Solar Panels in America"
+        title="Lowesst Cost Solar Panels in America"
         description="Money-back guarantee"
         backgroundImg="solar-panel.jpg"
         leftBtnText="Order now"
